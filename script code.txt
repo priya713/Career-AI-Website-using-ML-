@@ -1,0 +1,25 @@
+To add the chatbot anywhere on your webiste,add this iframe to your html code
+<iframe
+src="https://www.chatbase.co/chatbot-iframe/IvQfE29fRJlmbf3LqzNUY"
+width="100%"
+style="height: 100%; min-height: 700px"
+frameborder="0"
+></iframe>
+
+
+To add a chat bubble to the bottom right of your website add this script tag in your html 
+<script>
+window.embeddedChatbotConfig = {
+chatbotId: "IvQfE29fRJlmbf3LqzNUY",
+domain: "www.chatbase.co"
+}
+</script>
+<script
+src="https://www.chatbase.co/embed.min.js"
+chatbotId="IvQfE29fRJlmbf3LqzNUY"
+domain="www.chatbase.co"
+defer>
+</script>
+
+
+https://www.chatbase.co/chatbot-iframe/IvQfE29fRJlmbf3LqzNUY
